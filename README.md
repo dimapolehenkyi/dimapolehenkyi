@@ -16,7 +16,7 @@ I'm a **Java Backend Developer** passionate about building scalable backend appl
 - Building production-ready backend projects
 
 ### 📌 Main project
-- 🔭 I’m currently working on **Mercado** - — an online courses platform with both **backend and frontend**, where I'm building the backend architecture and planning the full system development.
+- 🔭 I’m currently working on **Mercado** — an online courses platform with both **backend and frontend**, where I'm building the backend architecture and planning the full system development.
 <!--
 **dimapolehenkyi/dimapolehenkyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
